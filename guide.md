@@ -1,20 +1,11 @@
-
 ---
-
 title: Wie trete ich der Matrix bei?
-
 ntitle: Die Anleitung
-
 layout: page-two-col
-
 nav: true
-
 parent: guide
-
 permalink: guide/
-
 description: Ein einsteigerfreundlicher Leitfaden für Matrix, die föderierte Chat-Plattform, die dich wirklich respektiert.
-
 ---
 
   
@@ -36,7 +27,7 @@ Matrix ist der lang erwartete Mittelweg zwischen One-to-One-Messaging-Plattforme
 
   
 
-* **Freiheit.** Du kannst selbst entscheiden, wie du die Plattform nutzen willst und wie deine Daten behandelt werden.
+**Freiheit.** Du kannst selbst entscheiden, wie du die Plattform nutzen willst und wie deine Daten behandelt werden.
 
 * Gespräche können Ende-zu-Ende verschlüsselt werden[^1]. Dies ist standardmäßig für Direkt- und Gruppennachrichten aktiviert[^2].
 
@@ -48,7 +39,7 @@ Matrix ist der lang erwartete Mittelweg zwischen One-to-One-Messaging-Plattforme
 
 * Da Matrix ein offenes Protokoll ist, ist es erweiterbar und kann für andere Zwecke als nur zum Chatten verwendet werden. Zum Beispiel: [Helpdesk](https://www.safesupport.chat/), [Social Media](https://minestrix.henri2h.fr/), Zusammenarbeit in Echtzeit...
 
-* **Vertrauen.** Du kannst der Software, die du benutzt, wirklich vertrauen.
+**Vertrauen.** Du kannst der Software, die du benutzt, wirklich vertrauen.
 
 * Matrix ist ein offenes Protokoll, und die meisten[^5] seiner [Apps](#what-app-should-i-use) und Server[^6] sind beide Open Source, zu denen du beitragen kannst!
 
@@ -125,7 +116,7 @@ Allerdings ist Hosting für viele immer noch unerwünscht. In diesem Fall kannst
 
 <div  class="flash">
 
-Der "standardmäßige" Matrix homeserver ist <code>matrix.org</code>, welcher von 35% aller Matrix-Benutzer benutzt wird <a  href="https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom">(Schätzungen zufolge im Jahr 2020)</a>. Auch wenn es okay ist, ihn zu verwenden (weil du beispielsweise schnell damit die Matrix austesten kannst), wird dringend empfohlen, einen anderen Homeserver zu wählen (einschließlich der Führung eines eigenen Matrix-Homeservers) für eine langfristige Nutzung, da es dem Geist der Dezentralisierung dient, den das Matrix-Protokoll fördert, und auch, weil <code>matrix.org</code> gelegentlich überlastet ist (obwohl sich die Leistung in letzter Zeit verbessert hat) und hinter Cloudflare liegt (was ein Sicherheitsrisiko darstellt).
+Der "standardmäßige" Matrix-Homeserver ist <code>matrix.org</code>, welcher von 35% aller Matrix-Benutzer benutzt wird <a  href="https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom">(Schätzungen zufolge im Jahr 2020)</a>. Auch wenn es okay ist, ihn zu verwenden (weil du beispielsweise schnell damit die Matrix austesten kannst), wird dringend empfohlen, einen anderen Homeserver zu wählen (einschließlich der Führung eines eigenen Matrix-Homeservers) für eine langfristige Nutzung, da es dem Geist der Dezentralisierung dient, den das Matrix-Protokoll fördert, und auch, weil <code>matrix.org</code> gelegentlich überlastet ist (obwohl sich die Leistung in letzter Zeit verbessert hat) und hinter Cloudflare liegt (was ein Sicherheitsrisiko darstellt).
 
 </div>
 
@@ -152,7 +143,7 @@ Der Einfachheit halber ist die Anleitung so aufgebaut, dass die Registrierung ü
 
 2. Klicke auf "Konto erstellen".
 
-3. Überprüfe oben im Registrierungsdialog, ob du dich auf dem richtigen Server registrierst. Wenn nötig, klicke auf "Bearbeiten" und gib die richtige Domain ein (sieh in den Anweisungen deines öffentlichen/privaten/verwalteten Homeservers nach oder in der Spalte "Registrierungsmethode" der [Homeserverliste](../servers)). Sobald du verifiziert bist, **notierst du dir die Domain. ** Du brauchst sie zum Einloggen[^7].
+3. Überprüfe oben im Registrierungsdialog, ob du dich auf dem richtigen Server registrierst. Wenn nötig, klicke auf "Bearbeiten" und gib die richtige Domain ein (sieh in den Anweisungen deines öffentlichen/privaten/verwalteten Homeservers nach oder in der Spalte "Registrierungsmethode" der [Homeserverliste](../servers)). Sobald du verifiziert bist, **notierst du dir die Domain.** Du brauchst sie zum Einloggen[^7].
 
 4. Fülle die erforderlichen Informationen aus.
 
@@ -184,7 +175,7 @@ Für die meisten Apps:
 
   
 
-### Set up key backup
+### Eine Schlüsselsicherung einrichten
 
   
 
@@ -340,7 +331,7 @@ Wenn du Element oder SchildiChat verwendest, solltest du die [Element-Bedienungs
 
   
 
-## Footnotes
+## Fußnoten
 
   
 
